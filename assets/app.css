@@ -608,6 +608,7 @@ img {
   line-height: 1.5;
   background: rgba(var(--dark), 0.06);
   border-radius: 0.3rem;
+  color: red; /* set code content to red */
 }
 
 .post-content pre code {
